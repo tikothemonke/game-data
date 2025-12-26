@@ -1,0 +1,1088 @@
+{
+    "OynanabilirAlanScale": 9.25,
+    "SplinePoints": {
+        "TypeSpline": 1,
+        "SlotCount": 60,
+        "channelA": {
+            "x": 0.0,
+            "y": 0.5
+        },
+        "channelB": {
+            "x": 0.574999988079071,
+            "y": 1.0
+        },
+        "blockers": [],
+        "Points": [
+            {
+                "x": -6.5,
+                "y": 0.0,
+                "z": 3.248534679412842
+            },
+            {
+                "x": -5.5,
+                "y": 0.0,
+                "z": 11.649999618530274
+            },
+            {
+                "x": 5.5,
+                "y": 0.0,
+                "z": 11.649999618530274
+            },
+            {
+                "x": 6.5,
+                "y": 0.0,
+                "z": 3.425156593322754
+            },
+            {
+                "x": 6.5,
+                "y": 0.0,
+                "z": -6.477314472198486
+            },
+            {
+                "x": 6.5,
+                "y": 0.0,
+                "z": -7.727314472198486
+            },
+            {
+                "x": 5.0,
+                "y": 0.0,
+                "z": -8.477313995361329
+            },
+            {
+                "x": -5.0,
+                "y": 0.0,
+                "z": -8.477313995361329
+            },
+            {
+                "x": -6.5,
+                "y": 0.0,
+                "z": -7.727314472198486
+            },
+            {
+                "x": -6.5,
+                "y": 0.0,
+                "z": -6.477314472198486
+            }
+        ]
+    },
+    "HoleLines": [
+        {
+            "Position": {
+                "x": -4.25,
+                "y": 0.0,
+                "z": 10.0
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "flipX": false,
+            "Holes": [
+                {
+                    "ColorType": 0,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 6,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 8,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 6,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 8,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 5,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 2,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 9,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 3,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 9,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 3,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 6,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 4,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 0,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 6,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 8,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 0,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 4,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 2,
+                    "IsMystery": false
+                }
+            ]
+        },
+        {
+            "Position": {
+                "x": 4.25,
+                "y": 0.0,
+                "z": 10.0
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 44.999996185302737,
+                "z": 0.0
+            },
+            "flipX": false,
+            "Holes": [
+                {
+                    "ColorType": 4,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 8,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 3,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 3,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 5,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 4,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 0,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 5,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 9,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 4,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 0,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 4,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 2,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 5,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 2,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 4,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 3,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 2,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 4,
+                    "IsMystery": false
+                }
+            ]
+        }
+    ],
+    "Vehicles": [
+        {
+            "index": 0,
+            "VehicleSize": 2,
+            "ColorType": 0,
+            "Position": {
+                "x": 2.5,
+                "y": 0.0,
+                "z": 7.75
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 60.000003814697269,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 1,
+            "VehicleSize": 2,
+            "ColorType": 4,
+            "Position": {
+                "x": -2.5,
+                "y": 0.0,
+                "z": 7.75
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 300.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 2,
+            "VehicleSize": 2,
+            "ColorType": 6,
+            "Position": {
+                "x": -4.0,
+                "y": 0.0,
+                "z": 3.75
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 3,
+            "VehicleSize": 2,
+            "ColorType": 8,
+            "Position": {
+                "x": -3.9999992847442629,
+                "y": 0.0,
+                "z": -2.75
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 4,
+            "VehicleSize": 2,
+            "ColorType": 8,
+            "Position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 3.7500009536743166
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 5,
+            "VehicleSize": 2,
+            "ColorType": 3,
+            "Position": {
+                "x": 4.000000953674316,
+                "y": 0.0,
+                "z": -2.7499990463256838
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 6,
+            "VehicleSize": 2,
+            "ColorType": 4,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -3.749999523162842
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 7,
+            "VehicleSize": 2,
+            "ColorType": 4,
+            "Position": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 1.25
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 150.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 8,
+            "VehicleSize": 2,
+            "ColorType": 5,
+            "Position": {
+                "x": -2.0,
+                "y": 0.0,
+                "z": 1.25
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 210.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 9,
+            "VehicleSize": 1,
+            "ColorType": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 7.0
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 10,
+            "VehicleSize": 1,
+            "ColorType": 2,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 4.5
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 11,
+            "VehicleSize": 1,
+            "ColorType": 6,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.75
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 12,
+            "VehicleSize": 1,
+            "ColorType": 9,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.75
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 13,
+            "VehicleSize": 1,
+            "ColorType": 6,
+            "Position": {
+                "x": 1.25,
+                "y": 0.0,
+                "z": -5.0
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 14,
+            "VehicleSize": 1,
+            "ColorType": 2,
+            "Position": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": -4.25
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 15,
+            "VehicleSize": 1,
+            "ColorType": 0,
+            "Position": {
+                "x": -3.0,
+                "y": 0.0,
+                "z": -4.249999523162842
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 16,
+            "VehicleSize": 1,
+            "ColorType": 9,
+            "Position": {
+                "x": 2.999999761581421,
+                "y": 0.0,
+                "z": -5.5
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 17,
+            "VehicleSize": 1,
+            "ColorType": 5,
+            "Position": {
+                "x": -3.000000238418579,
+                "y": 0.0,
+                "z": -5.499999523162842
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 18,
+            "VehicleSize": 1,
+            "ColorType": 3,
+            "Position": {
+                "x": -1.25,
+                "y": 0.0,
+                "z": -5.0
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 19,
+            "VehicleSize": 1,
+            "ColorType": 8,
+            "Position": {
+                "x": 4.75,
+                "y": 0.0,
+                "z": -5.0
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 20,
+            "VehicleSize": 1,
+            "ColorType": 4,
+            "Position": {
+                "x": 3.5,
+                "y": 0.0,
+                "z": 5.75
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 21,
+            "VehicleSize": 1,
+            "ColorType": 0,
+            "Position": {
+                "x": -3.5,
+                "y": 0.0,
+                "z": 5.75
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 22,
+            "VehicleSize": 1,
+            "ColorType": 5,
+            "Position": {
+                "x": -4.75,
+                "y": 0.0,
+                "z": -5.0
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 23,
+            "VehicleSize": 0,
+            "ColorType": 3,
+            "Position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 9.0
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 115.00000762939453,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 24,
+            "VehicleSize": 0,
+            "ColorType": 9,
+            "Position": {
+                "x": 1.5000001192092896,
+                "y": 0.0,
+                "z": 3.75
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 25,
+            "VehicleSize": 0,
+            "ColorType": 9,
+            "Position": {
+                "x": 1.5000008344650269,
+                "y": 0.0,
+                "z": -2.75
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 26,
+            "VehicleSize": 0,
+            "ColorType": 0,
+            "Position": {
+                "x": 3.216506242752075,
+                "y": 0.0,
+                "z": -0.875
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 150.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 27,
+            "VehicleSize": 0,
+            "ColorType": 3,
+            "Position": {
+                "x": -3.216506004333496,
+                "y": 0.0,
+                "z": -0.875
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 210.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 28,
+            "VehicleSize": 0,
+            "ColorType": 5,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -6.5
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 29,
+            "VehicleSize": 0,
+            "ColorType": 4,
+            "Position": {
+                "x": -1.4999998807907105,
+                "y": 0.0,
+                "z": 3.750000476837158
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 30,
+            "VehicleSize": 0,
+            "ColorType": 6,
+            "Position": {
+                "x": -1.4999991655349732,
+                "y": 0.0,
+                "z": -2.749999523162842
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 31,
+            "VehicleSize": 0,
+            "ColorType": 2,
+            "Position": {
+                "x": -1.0,
+                "y": 0.0,
+                "z": 9.0
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 245.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        }
+    ],
+    "elevatorDatas": [
+        {
+            "ElevatorSize": 0,
+            "Position": {
+                "x": -3.25,
+                "y": 0.0,
+                "z": 4.779999732971191
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "VehicleDatas": [
+                {
+                    "index": 32,
+                    "VehicleSize": 1,
+                    "ColorType": 4,
+                    "Position": {
+                        "x": -4.590000152587891,
+                        "y": -3.0,
+                        "z": 4.359999656677246
+                    },
+                    "EulerAngle": {
+                        "x": 0.0,
+                        "y": 180.0,
+                        "z": 0.0
+                    },
+                    "IsFrozen": false,
+                    "IsMystery": false,
+                    "IsHurryBus": false,
+                    "CanCover": false,
+                    "CoverFromStart": false
+                },
+                {
+                    "index": 33,
+                    "VehicleSize": 1,
+                    "ColorType": 2,
+                    "Position": {
+                        "x": -1.8899998664855958,
+                        "y": -3.0,
+                        "z": 4.389999866485596
+                    },
+                    "EulerAngle": {
+                        "x": 0.0,
+                        "y": 180.0,
+                        "z": 0.0
+                    },
+                    "IsFrozen": false,
+                    "IsMystery": false,
+                    "IsHurryBus": false,
+                    "CanCover": false,
+                    "CoverFromStart": false
+                },
+                {
+                    "index": 34,
+                    "VehicleSize": 0,
+                    "ColorType": 3,
+                    "Position": {
+                        "x": -3.2099995613098146,
+                        "y": -3.0,
+                        "z": 5.729999542236328
+                    },
+                    "EulerAngle": {
+                        "x": 0.0,
+                        "y": 270.0,
+                        "z": 0.0
+                    },
+                    "IsFrozen": false,
+                    "IsMystery": false,
+                    "IsHurryBus": false,
+                    "CanCover": false,
+                    "CoverFromStart": false
+                },
+                {
+                    "index": 35,
+                    "VehicleSize": 0,
+                    "ColorType": 3,
+                    "Position": {
+                        "x": -3.209998607635498,
+                        "y": -3.0,
+                        "z": 3.9699997901916506
+                    },
+                    "EulerAngle": {
+                        "x": 0.0,
+                        "y": 269.999755859375,
+                        "z": 0.0
+                    },
+                    "IsFrozen": false,
+                    "IsMystery": false,
+                    "IsHurryBus": false,
+                    "CanCover": false,
+                    "CoverFromStart": false
+                }
+            ]
+        },
+        {
+            "ElevatorSize": 0,
+            "Position": {
+                "x": 3.25,
+                "y": 0.0,
+                "z": 4.779999732971191
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "VehicleDatas": [
+                {
+                    "index": 36,
+                    "VehicleSize": 1,
+                    "ColorType": 4,
+                    "Position": {
+                        "x": 1.9099998474121094,
+                        "y": -3.0,
+                        "z": 4.359999656677246
+                    },
+                    "EulerAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "IsFrozen": false,
+                    "IsMystery": false,
+                    "IsHurryBus": false,
+                    "CanCover": false,
+                    "CoverFromStart": false
+                },
+                {
+                    "index": 37,
+                    "VehicleSize": 1,
+                    "ColorType": 2,
+                    "Position": {
+                        "x": 4.610000133514404,
+                        "y": -3.0,
+                        "z": 4.389999866485596
+                    },
+                    "EulerAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "IsFrozen": false,
+                    "IsMystery": false,
+                    "IsHurryBus": false,
+                    "CanCover": false,
+                    "CoverFromStart": false
+                },
+                {
+                    "index": 38,
+                    "VehicleSize": 0,
+                    "ColorType": 2,
+                    "Position": {
+                        "x": 3.2900004386901857,
+                        "y": -3.0,
+                        "z": 5.729999542236328
+                    },
+                    "EulerAngle": {
+                        "x": 0.0,
+                        "y": 90.0,
+                        "z": 0.0
+                    },
+                    "IsFrozen": false,
+                    "IsMystery": false,
+                    "IsHurryBus": false,
+                    "CanCover": false,
+                    "CoverFromStart": false
+                },
+                {
+                    "index": 39,
+                    "VehicleSize": 0,
+                    "ColorType": 3,
+                    "Position": {
+                        "x": 3.2900004386901857,
+                        "y": -3.0,
+                        "z": 3.9699997901916506
+                    },
+                    "EulerAngle": {
+                        "x": 0.0,
+                        "y": 90.0,
+                        "z": 0.0
+                    },
+                    "IsFrozen": false,
+                    "IsMystery": false,
+                    "IsHurryBus": false,
+                    "CanCover": false,
+                    "CoverFromStart": false
+                }
+            ]
+        }
+    ],
+    "indexVehicleTutorial": [],
+    "GummyDatas": []
+}
