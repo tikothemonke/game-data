@@ -1,0 +1,178 @@
+{
+    "OynanabilirAlanScale": 5.5,
+    "SplinePoints": {
+        "TypeSpline": 1,
+        "SlotCount": 30,
+        "channelA": {
+            "x": 0.0,
+            "y": 0.30000001192092898
+        },
+        "channelB": {
+            "x": 0.699999988079071,
+            "y": 1.0
+        },
+        "blockers": [],
+        "Points": [
+            {
+                "x": -3.0,
+                "y": 0.0,
+                "z": 6.0
+            },
+            {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 6.0
+            },
+            {
+                "x": 3.75,
+                "y": 0.0,
+                "z": 6.0
+            },
+            {
+                "x": 3.75,
+                "y": 0.0,
+                "z": -2.0
+            },
+            {
+                "x": 3.0,
+                "y": 0.0,
+                "z": -2.0
+            },
+            {
+                "x": -3.0,
+                "y": 0.0,
+                "z": -2.0
+            },
+            {
+                "x": -3.75,
+                "y": 0.0,
+                "z": -2.0
+            },
+            {
+                "x": -3.75,
+                "y": 0.0,
+                "z": 6.0
+            }
+        ]
+    },
+    "HoleLines": [
+        {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 6.0
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "flipX": false,
+            "Holes": [
+                {
+                    "ColorType": 2,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 0,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 2,
+                    "IsMystery": false
+                },
+                {
+                    "ColorType": 0,
+                    "IsMystery": false
+                }
+            ]
+        }
+    ],
+    "Vehicles": [
+        {
+            "index": 0,
+            "VehicleSize": 2,
+            "ColorType": 0,
+            "Position": {
+                "x": 0.7099999785423279,
+                "y": 0.0,
+                "z": 2.549999952316284
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 44.999996185302737,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 1,
+            "VehicleSize": 1,
+            "ColorType": 2,
+            "Position": {
+                "x": -1.290000081062317,
+                "y": 0.0,
+                "z": 3.049999952316284
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 2,
+            "VehicleSize": 1,
+            "ColorType": 2,
+            "Position": {
+                "x": 1.209999918937683,
+                "y": 0.0,
+                "z": 0.5499999523162842
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 135.0,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        },
+        {
+            "index": 3,
+            "VehicleSize": 0,
+            "ColorType": 0,
+            "Position": {
+                "x": -1.0399999618530274,
+                "y": 0.0,
+                "z": 0.7999999523162842
+            },
+            "EulerAngle": {
+                "x": 0.0,
+                "y": 44.999996185302737,
+                "z": 0.0
+            },
+            "IsFrozen": false,
+            "IsMystery": false,
+            "IsHurryBus": false,
+            "CanCover": false,
+            "CoverFromStart": false
+        }
+    ],
+    "elevatorDatas": [],
+    "indexVehicleTutorial": [
+        1
+    ],
+    "GummyDatas": []
+}
